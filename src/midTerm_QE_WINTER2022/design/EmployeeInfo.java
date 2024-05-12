@@ -1,4 +1,4 @@
-package design;
+package midTerm_QE_WINTER2022.design;
 
 import java.util.Scanner;
 

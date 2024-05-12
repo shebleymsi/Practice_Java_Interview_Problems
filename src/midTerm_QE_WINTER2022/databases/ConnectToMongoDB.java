@@ -1,4 +1,4 @@
-package databases;
+/*package midTerm_QE_WINTER2022.databases;
 
 import com.mongodb.BasicDBObject;
 import com.mongodb.MongoClient;
@@ -101,3 +101,4 @@ public class ConnectToMongoDB {
         }
     }
 }
+*/

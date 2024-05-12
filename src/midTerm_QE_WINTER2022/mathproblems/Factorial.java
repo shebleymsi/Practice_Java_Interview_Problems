@@ -1,5 +1,5 @@
 
-package mathproblems;
+package midTerm_QE_WINTER2022.mathproblems;
 public class Factorial {
     public static void main(String[] args) {
         /*

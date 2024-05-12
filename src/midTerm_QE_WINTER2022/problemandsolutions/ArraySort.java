@@ -1,4 +1,4 @@
-package problemandsolutions;
+package midTerm_QE_WINTER2022.problemandsolutions;
 
 public class ArraySort {
     // By using the bubble sort / Insertion sort algorithm, write a Java program to sort an integer array of 10 elements in ascending.

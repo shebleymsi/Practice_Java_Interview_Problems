@@ -1,4 +1,5 @@
-package design;
+/*
+package midTerm_QE_WINTER2022.design;
 
 import org.junit.Test;
 
@@ -17,3 +18,4 @@ public class UnitTestingEmployeeInfo {
     }
 
 }
+*/

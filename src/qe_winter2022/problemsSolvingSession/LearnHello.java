@@ -1,9 +1,9 @@
-package problemsSolvingSession;
+/*
+package qe_winter2022.problemsSolvingSession;
 
 import basic.LearnAccessModifier;
 import basic.LearnNestedClass.Computer;
 import basic.LearnVariable;
-import basic.Mobile;
 
 
 public class LearnHello {
@@ -40,12 +40,14 @@ public class LearnHello {
         System.out.println(tauseefComputer.computerName);
         System.out.println(Computer.ram); // msi
 
-        /*
+        */
+/*
         Example:‘Mobile.java’ class from ‘basic’ package.
         Another ‘LearnHello.java’ class from ‘probleSolvingSession’ package.
         Now we want to create an object of ‘Mobile.java’ class inside the different ‘LearnHello.java’ class
         which ‘probleSolvingSession’ package
-        */
+        *//*
+
         Mobile jamalMobile = new Mobile();
         System.out.println(jamalMobile.mobilePrice);
 
@@ -61,3 +63,4 @@ public class LearnHello {
 
 
 }
+*/

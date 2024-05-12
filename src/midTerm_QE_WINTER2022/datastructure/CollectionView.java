@@ -1,4 +1,4 @@
-package datastructure;
+package midTerm_QE_WINTER2022.datastructure;
 
 import java.util.HashMap;
 

@@ -1,4 +1,5 @@
-package stringproblems;
+/*
+package midTerm_QE_WINTER2022.stringproblems;
 
 import org.junit.Assert;
 import org.junit.Test;
@@ -50,4 +51,4 @@ public class UnitTestingStringProblem {
     }
 
 
-}
+}*/

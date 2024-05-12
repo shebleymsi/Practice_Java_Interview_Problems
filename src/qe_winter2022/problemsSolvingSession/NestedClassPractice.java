@@ -1,4 +1,4 @@
-package problemsSolvingSession;
+package qe_winter2022.problemsSolvingSession;
 
 public class NestedClassPractice {
 

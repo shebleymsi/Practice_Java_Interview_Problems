@@ -1,4 +1,4 @@
-package problemandsolutions;
+package midTerm_QE_WINTER2022.problemandsolutions;
 
 import java.util.Scanner;
 

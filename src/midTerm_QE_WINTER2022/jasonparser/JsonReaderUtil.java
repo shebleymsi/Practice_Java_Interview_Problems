@@ -1,4 +1,5 @@
-package jasonparser;
+/*
+package midTerm_QE_WINTER2022.jasonparser;
 
 import com.google.gson.JsonArray;
 import com.google.gson.JsonElement;
@@ -16,7 +17,8 @@ import java.util.List;
 
 public class JsonReaderUtil {
 
-    /*
+    */
+/*
       ToDo:API is given, This Rest API will give you a Json Array. It is parsed partially. Your task is to give the following output.
 
       output:
@@ -33,7 +35,8 @@ public class JsonReaderUtil {
      "mdtaque@gmail.com" "rifat taque" "400k" "QA"
      "mdtaque@gmail.com" "rifat taque" "400k" "QA"
 
-     */
+     *//*
+
 
     public static void main(String[] args)throws MalformedURLException, IOException {
         String sURL = "http://info.venturepulse.org:8080/service-webapp/api/AllEmployeeResources";
@@ -71,3 +74,4 @@ public class JsonReaderUtil {
     }
 
 }
+*/

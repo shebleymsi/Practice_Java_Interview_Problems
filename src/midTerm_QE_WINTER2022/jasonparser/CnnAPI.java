@@ -1,4 +1,4 @@
-package jasonparser;
+package midTerm_QE_WINTER2022.jasonparser;
 
 public class CnnAPI {
     /*

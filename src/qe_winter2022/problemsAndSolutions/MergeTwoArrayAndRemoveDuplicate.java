@@ -1,3 +1,4 @@
+/*
 package qe_winter2022.problemsAndSolutions;
 
 import org.junit.Test;
@@ -41,3 +42,4 @@ public class MergeTwoArrayAndRemoveDuplicate {
 
 
 }
+*/

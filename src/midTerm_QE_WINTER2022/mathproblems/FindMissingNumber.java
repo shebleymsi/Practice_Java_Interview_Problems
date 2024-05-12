@@ -1,4 +1,4 @@
-package mathproblems;
+package midTerm_QE_WINTER2022.mathproblems;
 
 import java.util.Scanner;
 

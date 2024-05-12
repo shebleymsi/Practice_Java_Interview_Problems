@@ -1,4 +1,4 @@
-package databases;
+package midTerm_QE_WINTER2022.databases;
 
 public class User {
 

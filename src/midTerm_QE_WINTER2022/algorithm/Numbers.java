@@ -1,4 +1,5 @@
-package algorithm;
+/*
+package midTerm_QE_WINTER2022.algorithm;
 
 import databases.ConnectDatabase;
 
@@ -6,9 +7,14 @@ import java.util.List;
 import java.util.Random;
 
 
+*/
+/*
 public class Numbers {
 
-    /*
+    *//*
+
+*/
+/*
      * Show all the different kind of sorting algorithm by applying into (num array).
      * Display the execution time for each sorting.Example in below.
      *
@@ -16,7 +22,9 @@ public class Numbers {
      *
      * At the end. After running all the sorting algo, come to a conclusion which one is suitable on given data set.
      *
-     */
+     *//*
+
+
 
     public static void main(String[] args) throws Exception {
 
@@ -72,3 +80,4 @@ public class Numbers {
         }
     }
 }
+*/

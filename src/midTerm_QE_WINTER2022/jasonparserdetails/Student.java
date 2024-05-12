@@ -1,12 +1,15 @@
-package jasonparserdetails;
+/*
+package midTerm_QE_WINTER2022.jasonparserdetails;
 
 import java.io.Serializable;
 
 public class Student extends databases.Student implements Serializable {
 
-	/*
+	*/
+/*
 	 * Student class have 4 variables which will be constructed as Student Object into List<Student>.
-	 */
+	 *//*
+
 	public String firstName;
 	public String lastName;
 	public String score;
@@ -59,3 +62,4 @@ public class Student extends databases.Student implements Serializable {
 	}
 	
 }
+*/

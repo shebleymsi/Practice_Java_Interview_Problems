@@ -1,4 +1,4 @@
-package algorithm;
+package midTerm_QE_WINTER2022.algorithm;
 
 public class Sort {
 

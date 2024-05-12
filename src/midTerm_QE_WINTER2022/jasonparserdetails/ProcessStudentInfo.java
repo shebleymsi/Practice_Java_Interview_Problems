@@ -1,4 +1,5 @@
-package jasonparserdetails;
+/*
+package midTerm_QE_WINTER2022.jasonparserdetails;
 
 import databases.ConnectToMongoDB;
 import org.xml.sax.SAXException;
@@ -12,7 +13,8 @@ import java.util.Map;
 
 public class ProcessStudentInfo {
 
-		/*
+		*/
+/*
 		 * Under XmlReader class, the parseData() will return list of Student Info which will contain Student first name, last name and score.
 		 * You need to implement the method name "convertIntToChar()" which will convert String score into char Grade.('A'for 90 to 100,'B'for 80 to 89 and 
 		 * 'C' for 70 to 79.
@@ -32,7 +34,8 @@ public class ProcessStudentInfo {
 		 *
 		 * Use any databases[MongoDB, Oracle or MySql] to store data and to retrieve data.
 		 *
-		 */
+		 *//*
+
 
 			public static void main(String[] args) throws ParserConfigurationException, SAXException, IOException {
 				//Path of XML data to be read.
@@ -44,8 +47,10 @@ public class ProcessStudentInfo {
 				//Declare a Map with List<String> into it.
 				Map<String, List<Student>> list = new LinkedHashMap<String, List<Student>>();
 				
-				/*Declare 2 ArrayList with Student data type to store Selenium student into one of the ArrayList and
-				  Qtp student into another ArrayList. */
+				*/
+/*Declare 2 ArrayList with Student data type to store Selenium student into one of the ArrayList and
+				  Qtp student into another ArrayList. *//*
+
 				
 				List<databases.Student> seleniumStudents = new ArrayList<>();
 				List<Student> qtpStudents = new ArrayList<Student>();
@@ -86,3 +91,4 @@ public class ProcessStudentInfo {
 			}
 
 }
+*/

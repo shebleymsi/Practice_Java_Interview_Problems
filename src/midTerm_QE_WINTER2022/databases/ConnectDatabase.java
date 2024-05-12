@@ -1,4 +1,4 @@
-package databases;
+package midTerm_QE_WINTER2022.databases;
 
 import java.io.FileInputStream;
 import java.io.IOException;

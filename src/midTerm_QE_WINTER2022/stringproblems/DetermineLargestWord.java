@@ -1,4 +1,4 @@
-package stringproblems;
+package midTerm_QE_WINTER2022.stringproblems;
 
 import java.util.HashMap;
 import java.util.Map;

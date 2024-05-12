@@ -1,4 +1,5 @@
-package jasonparserdetails;
+/*
+package midTerm_QE_WINTER2022.jasonparserdetails;
 
 import org.w3c.dom.Document;
 import org.w3c.dom.Element;
@@ -14,9 +15,11 @@ import java.io.IOException;
 import java.util.ArrayList;
 import java.util.List;
 
+*/
 /*
  * This XmlReader class are using DOM parser to read data from XML.
- */
+ *//*
+
 
 public class XmlReader {
 	
@@ -71,3 +74,4 @@ public class XmlReader {
 	}
 	
 }
+*/
