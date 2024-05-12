@@ -2,77 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fb3835b5-e4e0-4b7d-b0fc-e206e2614d66" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/qe_winter2022/problemsAndSolutionsPractice/ReverseStringPractice.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/midTerm_QE_WINTER2022/algorithm/Numbers.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/midTerm_QE_WINTER2022/algorithm/Numbers.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/midTerm_QE_WINTER2022/algorithm/Sort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/midTerm_QE_WINTER2022/algorithm/Sort.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/midTerm_QE_WINTER2022/algorithm/UnitTestSorting.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/midTerm_QE_WINTER2022/algorithm/UnitTestSorting.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/midTerm_QE_WINTER2022/databases/ConnectDatabase.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/midTerm_QE_WINTER2022/databases/ConnectDatabase.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/midTerm_QE_WINTER2022/databases/ConnectToMongoDB.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/midTerm_QE_WINTER2022/databases/ConnectToMongoDB.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/midTerm_QE_WINTER2022/databases/DatabaseConnectDirectly.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/midTerm_QE_WINTER2022/databases/DatabaseConnectDirectly.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/midTerm_QE_WINTER2022/databases/Movie.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/midTerm_QE_WINTER2022/databases/Movie.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/midTerm_QE_WINTER2022/databases/MovieDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/midTerm_QE_WINTER2022/databases/MovieDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/midTerm_QE_WINTER2022/databases/Stimulus_info.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/midTerm_QE_WINTER2022/databases/Stimulus_info.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/midTerm_QE_WINTER2022/databases/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/midTerm_QE_WINTER2022/databases/Student.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/midTerm_QE_WINTER2022/databases/Student1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/midTerm_QE_WINTER2022/databases/Student1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/midTerm_QE_WINTER2022/databases/UnitTestConnectDB.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/midTerm_QE_WINTER2022/databases/UnitTestConnectDB.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/midTerm_QE_WINTER2022/databases/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/midTerm_QE_WINTER2022/databases/User.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/midTerm_QE_WINTER2022/datastructure/CollectionView.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/midTerm_QE_WINTER2022/datastructure/CollectionView.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/midTerm_QE_WINTER2022/datastructure/DataReader.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/midTerm_QE_WINTER2022/datastructure/DataReader.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/midTerm_QE_WINTER2022/datastructure/UseArrayList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/midTerm_QE_WINTER2022/datastructure/UseArrayList.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/midTerm_QE_WINTER2022/datastructure/UseMap.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/midTerm_QE_WINTER2022/datastructure/UseMap.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/midTerm_QE_WINTER2022/datastructure/UseQueue.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/midTerm_QE_WINTER2022/datastructure/UseQueue.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/midTerm_QE_WINTER2022/design/Employee.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/midTerm_QE_WINTER2022/design/Employee.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/midTerm_QE_WINTER2022/design/EmployeeInfo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/midTerm_QE_WINTER2022/design/EmployeeInfo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/midTerm_QE_WINTER2022/design/FortuneEmployee.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/midTerm_QE_WINTER2022/design/FortuneEmployee.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/midTerm_QE_WINTER2022/design/Months.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/midTerm_QE_WINTER2022/design/Months.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/midTerm_QE_WINTER2022/design/UnitTestingEmployeeInfo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/midTerm_QE_WINTER2022/design/UnitTestingEmployeeInfo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/midTerm_QE_WINTER2022/excelreadandwrite/ReadExcelFile.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/midTerm_QE_WINTER2022/excelreadandwrite/ReadExcelFile.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/midTerm_QE_WINTER2022/excelreadandwrite/WriteExcelFile.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/midTerm_QE_WINTER2022/excelreadandwrite/WriteExcelFile.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/midTerm_QE_WINTER2022/jasonparser/CnnAPI.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/midTerm_QE_WINTER2022/jasonparser/CnnAPI.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/midTerm_QE_WINTER2022/jasonparser/Employee.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/midTerm_QE_WINTER2022/jasonparser/Employee.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/midTerm_QE_WINTER2022/jasonparser/JsonReaderUtil.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/midTerm_QE_WINTER2022/jasonparser/JsonReaderUtil.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/midTerm_QE_WINTER2022/jasonparserdetails/ProcessStudentInfo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/midTerm_QE_WINTER2022/jasonparserdetails/ProcessStudentInfo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/midTerm_QE_WINTER2022/jasonparserdetails/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/midTerm_QE_WINTER2022/jasonparserdetails/Student.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/midTerm_QE_WINTER2022/jasonparserdetails/UnitTestingStudentProfile.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/midTerm_QE_WINTER2022/jasonparserdetails/UnitTestingStudentProfile.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/midTerm_QE_WINTER2022/jasonparserdetails/XmlReader.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/midTerm_QE_WINTER2022/jasonparserdetails/XmlReader.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/midTerm_QE_WINTER2022/mathproblems/Factorial.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/midTerm_QE_WINTER2022/mathproblems/Factorial.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/midTerm_QE_WINTER2022/mathproblems/Fibonacci.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/midTerm_QE_WINTER2022/mathproblems/Fibonacci.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/midTerm_QE_WINTER2022/mathproblems/FindLowestDifference.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/midTerm_QE_WINTER2022/mathproblems/FindLowestDifference.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/midTerm_QE_WINTER2022/mathproblems/FindMissingNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/midTerm_QE_WINTER2022/mathproblems/FindMissingNumber.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/midTerm_QE_WINTER2022/mathproblems/LowestNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/midTerm_QE_WINTER2022/mathproblems/LowestNumber.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/midTerm_QE_WINTER2022/mathproblems/MakePyramid.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/midTerm_QE_WINTER2022/mathproblems/MakePyramid.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/midTerm_QE_WINTER2022/mathproblems/MergeTwoArraysAndRemoveDuplicatesProgram.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/midTerm_QE_WINTER2022/mathproblems/MergeTwoArraysAndRemoveDuplicatesProgram.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/midTerm_QE_WINTER2022/mathproblems/Pattern.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/midTerm_QE_WINTER2022/mathproblems/Pattern.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/midTerm_QE_WINTER2022/mathproblems/PrimeNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/midTerm_QE_WINTER2022/mathproblems/PrimeNumber.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/midTerm_QE_WINTER2022/mathproblems/UnitTestingMath.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/midTerm_QE_WINTER2022/mathproblems/UnitTestingMath.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/midTerm_QE_WINTER2022/problemandsolutions/ArithmeticOperator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/midTerm_QE_WINTER2022/problemandsolutions/ArithmeticOperator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/midTerm_QE_WINTER2022/problemandsolutions/ArraySort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/midTerm_QE_WINTER2022/problemandsolutions/ArraySort.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/midTerm_QE_WINTER2022/problemandsolutions/GradeSheet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/midTerm_QE_WINTER2022/problemandsolutions/GradeSheet.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/midTerm_QE_WINTER2022/problemandsolutions/RandomNumberGenerate.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/midTerm_QE_WINTER2022/problemandsolutions/RandomNumberGenerate.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/midTerm_QE_WINTER2022/problemandsolutions/SearchElementOfArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/midTerm_QE_WINTER2022/problemandsolutions/SearchElementOfArray.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/midTerm_QE_WINTER2022/stringproblems/Anagram.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/midTerm_QE_WINTER2022/stringproblems/Anagram.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/midTerm_QE_WINTER2022/stringproblems/DetermineLargestWord.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/midTerm_QE_WINTER2022/stringproblems/DetermineLargestWord.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/midTerm_QE_WINTER2022/stringproblems/DuplicateWord.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/midTerm_QE_WINTER2022/stringproblems/DuplicateWord.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/midTerm_QE_WINTER2022/stringproblems/Palindrome.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/midTerm_QE_WINTER2022/stringproblems/Palindrome.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/midTerm_QE_WINTER2022/stringproblems/Permutation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/midTerm_QE_WINTER2022/stringproblems/Permutation.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/midTerm_QE_WINTER2022/stringproblems/UnitTestingStringProblem.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/midTerm_QE_WINTER2022/stringproblems/UnitTestingStringProblem.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/qa_Stack_8/FindDuplicateStringCharacter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/qa_Stack_8/FindDuplicateStringCharacter.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/qa_Stack_8/RemoveDuplicateChar.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/qa_Stack_8/RemoveDuplicateChar.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/qa_Stack_8/ReverseString.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/qa_Stack_8/ReverseString.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/qa_Stack_8/StringCount.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/qa_Stack_8/StringCount.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/qa_Stack_8/SwapStringUsingTempVatiable.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/qa_Stack_8/SwapStringUsingTempVatiable.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/qa_Stack_8/SwapStrings1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/qa_Stack_8/SwapStrings1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/qa_Stack_8/SwapStringsUsingStringBuilder.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/qa_Stack_8/SwapStringsUsingStringBuilder.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/qa_Stack_8/SwapTwoNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/qa_Stack_8/SwapTwoNumber.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/qe_winter2022/problemsAndSolutions/MergeTwoArrayAndRemoveDuplicate.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/qe_winter2022/problemsAndSolutions/MergeTwoArrayAndRemoveDuplicate.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/qe_winter2022/problemsSolvingSession/DiscussInterface.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/qe_winter2022/problemsSolvingSession/DiscussInterface.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/qe_winter2022/problemsSolvingSession/DiscussNestedForLoop.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/qe_winter2022/problemsSolvingSession/DiscussNestedForLoop.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/qe_winter2022/problemsSolvingSession/DiscussScanner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/qe_winter2022/problemsSolvingSession/DiscussScanner.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/qe_winter2022/problemsSolvingSession/LearnClassNotFoundException.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/qe_winter2022/problemsSolvingSession/LearnClassNotFoundException.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/qe_winter2022/problemsSolvingSession/LearnHello.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/qe_winter2022/problemsSolvingSession/LearnHello.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/qe_winter2022/problemsSolvingSession/Mobile.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/qe_winter2022/problemsSolvingSession/Mobile.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/qe_winter2022/problemsSolvingSession/NestedClassPractice.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/qe_winter2022/problemsSolvingSession/NestedClassPractice.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/qe_winter2022/problemsAndSolutions/ReverseString.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/qe_winter2022/problemsAndSolutions/ReverseString.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -117,13 +49,39 @@
       <recent name="D:\WINDOWS (C)_2024\IdeaProjects_2024\Practice_Java_Interview_Problems\src\qe_winter2022" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.demo1">
+  <component name="RunManager" selected="Application.ReverseStringPractice">
     <configuration name="CheckAnagram" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="qe_winter2022.problemsAndSolutions.CheckAnagram" />
       <module name="Practice_Java_Interview_Problems" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="qe_winter2022.problemsAndSolutions.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ReverseString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="qe_winter2022.problemsAndSolutions.ReverseString" />
+      <module name="Practice_Java_Interview_Problems" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="qe_winter2022.problemsAndSolutions.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ReverseStringPractice" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="qe_winter2022.problemsAndSolutionsPractice.ReverseStringPractice" />
+      <module name="Practice_Java_Interview_Problems" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="qe_winter2022.problemsAndSolutionsPractice.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -146,6 +104,8 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ReverseStringPractice" />
+        <item itemvalue="Application.ReverseString" />
         <item itemvalue="Application.demo1" />
         <item itemvalue="Application.CheckAnagram" />
       </list>
