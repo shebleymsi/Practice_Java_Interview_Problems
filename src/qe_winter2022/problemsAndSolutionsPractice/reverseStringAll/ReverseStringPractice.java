@@ -1,4 +1,4 @@
-package qe_winter2022.problemsAndSolutionsPractice;
+package qe_winter2022.problemsAndSolutionsPractice.reverseStringAll;
 
 public class ReverseStringPractice {
     public static void main(String[] args) {

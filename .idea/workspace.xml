@@ -2,9 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fb3835b5-e4e0-4b7d-b0fc-e206e2614d66" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/qe_winter2022/problemsAndSolutionsPractice/ReverseStringPracticeScanner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/qe_winter2022/problemsAndSolutions/LearnNestedForLoop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/qe_winter2022/problemsAndSolutionsPractice/reverseStringAll/CheckPalindromeWordsPractice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/qe_winter2022/problemsAndSolutionsPractice/reverseStringAll/ReverseStringPrintMainMethod.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/qe_winter2022/problemsAndSolutionsPractice/ReverseStringPractice.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/qe_winter2022/problemsAndSolutionsPractice/ReverseStringPractice.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/qe_winter2022/problemsAndSolutionsPractice/ReverseStringPractice.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/qe_winter2022/problemsAndSolutionsPractice/reverseStringAll/ReverseStringPractice.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/qe_winter2022/problemsAndSolutionsPractice/ReverseStringPracticeScanner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/qe_winter2022/problemsAndSolutionsPractice/reverseStringAll/ReverseStringPracticeScanner.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,21 +51,11 @@
       <recent name="D:\WINDOWS (C)_2024\IdeaProjects_2024\Practice_Java_Interview_Problems\src\qe_winter2022\problemsAndSolutions" />
       <recent name="D:\WINDOWS (C)_2024\IdeaProjects_2024\Practice_Java_Interview_Problems\src\qe_winter2022" />
     </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="qe_winter2022.problemsAndSolutions" />
+    </key>
   </component>
-  <component name="RunManager" selected="Application.ReverseStringPracticeScannerReturnTypeMethod">
-    <configuration name="CheckAnagram" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="qe_winter2022.problemsAndSolutions.CheckAnagram" />
-      <module name="Practice_Java_Interview_Problems" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="qe_winter2022.problemsAndSolutions.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.qe_winter2022.problemsAndSolutionsPractice.reverseStringAll.ReverseStringPracticeScanner">
     <configuration name="ReverseString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="qe_winter2022.problemsAndSolutions.ReverseString" />
       <module name="Practice_Java_Interview_Problems" />
@@ -76,12 +69,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ReverseStringPractice" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="qe_winter2022.problemsAndSolutionsPractice.ReverseStringPractice" />
+    <configuration name="ReverseStringPracticeScanner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="qe_winter2022.problemsAndSolutionsPractice.reverseStringAll.ReverseStringPracticeScanner" />
       <module name="Practice_Java_Interview_Problems" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="qe_winter2022.problemsAndSolutionsPractice.*" />
+          <option name="PATTERN" value="qe_winter2022.problemsAndSolutionsPractice.reverseStringAll.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -89,12 +82,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ReverseStringPracticeScanner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="qe_winter2022.problemsAndSolutionsPractice.ReverseStringPracticeScanner" />
+    <configuration name="ReverseStringPrintMainMethod" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="qe_winter2022.problemsAndSolutionsPractice.reverseStringAll.ReverseStringPrintMainMethod" />
       <module name="Practice_Java_Interview_Problems" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="qe_winter2022.problemsAndSolutionsPractice.*" />
+          <option name="PATTERN" value="qe_winter2022.problemsAndSolutionsPractice.reverseStringAll.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -115,13 +108,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="qe_winter2022.problemsAndSolutionsPractice.reverseStringAll.ReverseStringPractice" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="qe_winter2022.problemsAndSolutionsPractice.reverseStringAll.ReverseStringPractice" />
+      <module name="Practice_Java_Interview_Problems" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="qe_winter2022.problemsAndSolutionsPractice.reverseStringAll.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.ReverseStringPracticeScannerReturnTypeMethod" />
-        <item itemvalue="Application.qe_winter2022.problemsAndSolutionsPractice.ReverseStringPractice" />
+        <item itemvalue="Application.qe_winter2022.problemsAndSolutionsPractice.reverseStringAll.ReverseStringPracticeScanner" />
+        <item itemvalue="Application.qe_winter2022.problemsAndSolutionsPractice.ReverseStringPrintMainMethod" />
+        <item itemvalue="Application.qe_winter2022.problemsAndSolutionsPractice.reverseStringAll.ReverseStringPractice" />
         <item itemvalue="Application.ReverseString" />
         <item itemvalue="Application.demo1" />
-        <item itemvalue="Application.CheckAnagram" />
       </list>
     </recent_temporary>
   </component>
